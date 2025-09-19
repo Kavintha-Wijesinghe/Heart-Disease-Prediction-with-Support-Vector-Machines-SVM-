@@ -78,7 +78,7 @@ The notebook provides:
 
 <p align="center">
   <img src="Images/confusion_matrix_1.png" alt="Confusion Matrix" width="40%">
-  <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="42%">
+  <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="41%">
 </p>
 ![ROC Curve](docs/roc_curve.png)
 
