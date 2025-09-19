@@ -76,7 +76,9 @@ The notebook provides:
 
 ## 📷 Example Output
 
-![Confusion Matrix](Images/confusion_matrix_1.png)  
+<p align="center">
+  <img src="Images/confusion_matrix_1.png" alt="Confusion Matrix" width="40%">
+</p>
 ![ROC Curve](docs/roc_curve.png)
 
 ---
