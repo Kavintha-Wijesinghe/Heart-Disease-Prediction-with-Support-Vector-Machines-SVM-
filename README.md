@@ -80,6 +80,10 @@ The notebook provides:
   <img src="Images/confusion_matrix_1.png" alt="Confusion Matrix" width="40%">
   <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="41%">
 </p>
+<h3 align="center">PCA Plot</h3>
+<p align="center">
+  <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="40%">
+</p>
 ![ROC Curve](docs/roc_curve.png)
 
 ---
