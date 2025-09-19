@@ -1,9 +1,5 @@
 # 🩺 Heart Disease Prediction using Support Vector Machines (SVM)
 
-<p align="center">
-  <img src="Images/svm.png" alt="SVM Decision Boundary" width="40%">
-</p>
-
 This repository contains a step-by-step implementation of a **Support Vector Machine (SVM)** model to predict heart disease.  
 The notebook walks through data loading, preprocessing, model building, hyperparameter tuning, and performance evaluation.
 
