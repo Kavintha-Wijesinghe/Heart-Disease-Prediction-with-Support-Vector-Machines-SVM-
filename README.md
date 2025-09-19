@@ -75,16 +75,24 @@ The notebook provides:
 ---
 
 ## 📷 Example Output
+<h3 align="center">Confusion Matrices Before and After Optimization</h3>
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 10px;">
-    <h4>PCA Analysis</h4>
-    <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="45%">
-  </div>
-  <div style="display: inline-block; text-align: center; margin-left: 10px;">
-    <h4>PCA Scree Plot</h4>
-    <img src="Images/pca_svm_decision.png" alt="PCA SVM Decision Surface" width="45%">
-  </div>
+  <img src="Images/confusion_matrix_1.png" alt="Confusion Matrix 1" width="40%">
+  <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="40%">
 </p>
+
+<h3 align="center">PCA Scree Plot</h3>
+<p align="center">
+  <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="50%">
+</p>
+
+<h3 align="center">PCA Analysis</h3>
+<p align="center">
+  <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="45%">
+  <img src="Images/pca_svm_decision.png" alt="PCA SVM Decision Surface" width="45%">
+</p>
+
+
 ![ROC Curve](docs/roc_curve.png)
 
 ---
