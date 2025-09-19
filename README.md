@@ -81,15 +81,10 @@ The notebook provides:
   <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="40%">
 </p>
 
-<h3 align="center">PCA Scree Plot</h3>
-<p align="center">
-  <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="50%">
-</p>
-
 <h3 align="center">PCA Analysis</h3>
 <p align="center">
   <img src="Images/pca_scree_plot.png" alt="PCA Scree Plot" width="45%">
-  <img src="Images/pca_svm_decision.png" alt="PCA SVM Decision Surface" width="45%">
+  <img src="Images/svm.png" alt="PCA SVM Decision Surface" width="45%">
 </p>
 
 
