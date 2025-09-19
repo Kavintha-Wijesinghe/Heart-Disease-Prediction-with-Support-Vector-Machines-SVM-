@@ -75,7 +75,7 @@ The notebook provides:
 ---
 
 ## 📷 Example Output
-
+<h3 align="center">Confusion Matrices Before and After Optimization</h3>
 <p align="center">
   <img src="Images/confusion_matrix_1.png" alt="Confusion Matrix" width="40%">
   <img src="Images/confusion_matrix_2.png" alt="Confusion Matrix 2" width="41%">
