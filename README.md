@@ -88,8 +88,6 @@ The notebook provides:
 </p>
 
 
-![ROC Curve](docs/roc_curve.png)
-
 ---
 
 ## 📌 Requirements
